@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmad-Noor
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development & AI
 - 🌱 I’m currently learning DS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me %60
 
 <!---
 Ahmad-Noor/Ahmad-Noor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
